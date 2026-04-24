@@ -1,6 +1,6 @@
 # Hola, soy deiguito
 
-![Mi foto]([https://url-de-tu-foto.jpg](https://www.disneylatino.com/novedades/las-4-curiosidades-sobre-como-se-realizo-el-extrano-mundo-de-jack))
+![Foto de perfil](/assets/foto-perfil.jpg){: width="200" style="border-radius: 50%; display: block; margin: 0 auto;"}
 
 ## Sobre mí
 Soy estudiante de magister de Física Médica en la PUC. Me gustan las películas y la guitarra.
