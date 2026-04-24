@@ -1,11 +1,12 @@
 # BLOG DE DEIGUITO
 
-![Foto de perfil](/assets/jack-cuadrado.jpg){: width="200" style="border-radius: 50%; display: block; margin: 0 auto;"}
-literalmente yo
+![Dios da](/assets/meme-cat1.gif){: width="200" style="display: block; margin: 0 auto;"}
 
 ## Sobre mí
 
-![Dios da](/assets/meme-cat1.gif){: width="200" style="display: block; margin: 0 auto;"}
+![Foto de perfil](/assets/jack-cuadrado.jpg){: width="200" style="border-radius: 50%; display: block; margin: 0 auto;"}
+literalmente yo
+
 Soy estudiante de magister de Física Médica en la PUC. Me gustan las películas y la guitarra.
 
 ## Intereses de investigación
