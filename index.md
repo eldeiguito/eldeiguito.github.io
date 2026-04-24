@@ -5,7 +5,7 @@ literalmente yo
 
 ## Sobre mí
 
-![Dios da](/assets/meme-cat1.gif){: width="100" }
+![Dios da](/assets/meme-cat1.gif){: width="200" style="display: block; margin: 0 auto;"}
 Soy estudiante de magister de Física Médica en la PUC. Me gustan las películas y la guitarra.
 
 ## Intereses de investigación
@@ -16,4 +16,4 @@ Estoy estudiando  el uso de nanopartículas y microalgas como fuentes alternativ
 - Email: dacevedo@uc.cl
 
 
-![Dios quita](/assets/meme-cat2.gif){: width="100" }
+![Dios quita](/assets/meme-cat2.gif){: width="200" style="display: block; margin: 0 auto;"}
