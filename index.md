@@ -38,14 +38,14 @@ Estoy estudiando  el uso de **nanopartículas** y **microalgas** como fuentes al
 ## 🥼 Experiencia
 
 **🧪 Práctica de Licenciatura** · *Ago 2025 – Dic 2025*  
-Caracterización fotofísica de nanopartículas de CsI(Na) activadas con radiación para aplicaciones en terapia fotodinámica (PDT).  
-<sub>Profa. guía: Beatriz Sánchez Nieto · Co-supervisora: Hilde Harb Buzzá</sub>
+Caracterización fotofísica de nanopartículas luminiscentes activadas con radiación.
+<sub>Profesora guía: Beatriz Sánchez Nieto · Co-supervisora: Hilde Harb Buzzá</sub>
 
 **💡 Investigación de Pregrado (IPRE)** · *Jul 2025*  
 Estudio de nanopartículas de ZnGaO cromadas como fuentes de luz para microorganismos fotosintéticos.
 
 **🦠 Trabajo de Laboratorio** · *Mar 2025 – Dic 2025*  
-Evaluación de fuentes de iluminación alternativas para activar algas y fotosensibilizadores. Calibración del OptiMAX.
+Evaluación de fuentes de iluminación alternativas para activar algas y fotosensibilizadores.
 
 **👨‍🏫 Docencia** · *2022 – 2025*  
 Ayudante corrector en *Física para Fonoaudiología* y *Laboratorio de Física* en la PUC.
