@@ -28,10 +28,11 @@ Estoy estudiando  el uso de **nanopartículas** y **microalgas** como fuentes al
 **Mis pasiones:**
 - 🧬 Física médica aplicada
 - ⚕️ Nanotecnología en medicina
-- ☢️ Radioterapia y radiación
 - 💤 Dormir
+- ☢️ Radioterapia y radiación
 - 🍜 Comer
-
+- 🎥 La La Land
+  
 ---
 
 ## 🥼 Experiencia
@@ -69,7 +70,4 @@ Ayudante corrector en *Física para Fonoaudiología* y *Laboratorio de Física* 
     <img src="https://img.shields.io/badge/GitHub-@eldeiguito-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
   &nbsp;
-  <a href="mailto:dacevedo@uc.cl">
-    <img src="https://img.shields.io/badge/Email-dacevedo@uc.cl-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
 </p>
