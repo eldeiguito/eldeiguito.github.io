@@ -3,8 +3,6 @@ layout: default
 title: Blog de Deiguito
 ---
 
-# 👻 BLOG DE DEIGUITO
-
 <p align="center">
   <img src="/assets/meme-cat1.gif" alt="Dios da" width="220" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
 </p>
