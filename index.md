@@ -1,17 +1,28 @@
-# BLOG DE DEIGUITO
+---
+layout: default
+title: Blog de Deiguito
+---
 
-![Dios da](/assets/meme-cat1.gif){: width="200" style="display: block; margin: 0 auto;"}
+<div align="center">
+
+# 🎸 Blog de Deiguito 🎬
+
+<img src="/assets/meme-cat1.gif" alt="Dios da" width="220" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+
+</div>
+
+---
 
 ## Sobre mí
 
 ![Foto de perfil](/assets/jack-cuadrado.jpg){: width="200" style="border-radius: 50%; display: block; margin: 0 auto;"}
 
 
-Soy estudiante de magister de Física Médica en la PUC. Me gustan las películas y la guitarra.
+Soy estudiante de <b>magister de Física Médica</b> en la PUC. Me gustan las películas y la guitarra.
 
 ## Intereses de investigación
 
-Estoy estudiando  el uso de nanopartículas y microalgas como fuentes alternativas de iluminación y oxigenación de tumores para optimizar la radioterapia. :)
+Estoy estudiando  el uso de **nanopartículas** y **microalgas** como fuentes alternativas de iluminación y oxigenación de tumores para optimizar la radioterapia. :)
 
 ## Contacto
 
