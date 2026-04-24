@@ -16,7 +16,7 @@ title: Blog de Deiguito
 </p>
 
 <p align="center">
-Soy estudiante de <b>magister de Física Médica</b> en la PUC. Me gustan las películas y la guitarra :)
+Soy <b>licenciado en Física</b> y actual estudiante de <b>magister de Física Médica</b> en la PUC. Me gustan las películas y la guitarra :)
 </p>
 
 ---
