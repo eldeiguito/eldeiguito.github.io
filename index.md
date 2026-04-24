@@ -9,7 +9,7 @@ title: Blog de Deiguito
 
 ---
 
-## 👋 Sobre mí
+## 👻 Sobre mí
 
 <p align="center">
   <img src="/assets/jack-cuadrado.jpg" alt="Foto de perfil" width="200" style="border-radius: 50%; border: 4px solid #6a5acd; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
