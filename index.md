@@ -6,7 +6,7 @@
 Soy estudiante de magister de Física Médica en la PUC. Me gustan las películas y la guitarra.
 
 ## Intereses de investigación
-Estoy trabajando con nanopartículas y microalgas como fuentes alternativa de iluminación y oxigenación de tumores para la optimización de la radioterapia. :)
+Estoy estudiando  el uso de nanopartículas y microalgas como fuentes alternativas de iluminación y oxigenación de tumores para optimizar la radioterapia. :)
 
 ## Contacto
 - GitHub: [@eldeiguito](https://github.com/eldeiguito)
