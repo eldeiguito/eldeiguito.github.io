@@ -39,7 +39,7 @@ Estoy estudiando  el uso de **nanopartículas** y **microalgas** como fuentes al
 
 **🧪 Práctica de Licenciatura** · *Ago 2025 – Dic 2025*  
 Caracterización fotofísica de nanopartículas luminiscentes activadas con radiación.
-</p>
+
 <sub>Profesora guía: Beatriz Sánchez Nieto · Co-supervisora: Hilde Harb Buzzá</sub>
 
 **💡 Investigación de Pregrado (IPRE)** · *Jul 2025*  
