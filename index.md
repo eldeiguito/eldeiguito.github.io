@@ -4,6 +4,8 @@
 literalmente yo
 
 ## Sobre mí
+
+![Dios da](/assets/meme-cat1.gif){: width="200" }
 Soy estudiante de magister de Física Médica en la PUC. Me gustan las películas y la guitarra.
 
 ## Intereses de investigación
@@ -12,3 +14,6 @@ Estoy estudiando  el uso de nanopartículas y microalgas como fuentes alternativ
 ## Contacto
 - GitHub: [@eldeiguito](https://github.com/eldeiguito)
 - Email: dacevedo@uc.cl
+
+
+![Dios quita](/assets/meme-cat2.gif){: width="200" }
