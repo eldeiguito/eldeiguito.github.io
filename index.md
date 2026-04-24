@@ -16,14 +16,21 @@ title: Blog de Deiguito
 </p>
 
 <p align="center">
-Soy estudiante de <b>magister de Física Médica</b> en la PUC. Me gustan las películas y la guitarra.
+Soy estudiante de <b>magister de Física Médica</b> en la PUC. Me gustan las películas y la guitarra :)
 </p>
 
 ---
 
 ## 🔬 Intereses de investigación
 
-Estoy estudiando  el uso de **nanopartículas** y **microalgas** como fuentes alternativas de iluminación y oxigenación de tumores para optimizar la radioterapia. :)
+Estoy estudiando  el uso de **nanopartículas** y **microalgas** como fuentes alternativas de iluminación y oxigenación de tumores para optimizar la radioterapia.
+
+**Mis pasiones:**
+- 🧬 Física médica aplicada
+- 💡 Nanotecnología en medicina
+- ☢️ Radioterapia y radiación
+- 💤 Dormir
+- 🍜 Comer
 
 ---
 
