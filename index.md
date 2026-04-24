@@ -29,5 +29,10 @@ Estoy estudiando  el uso de **nanopartículas** y **microalgas** como fuentes al
 - GitHub: [@eldeiguito](https://github.com/eldeiguito)
 - Email: dacevedo@uc.cl
 
+---
 
-![Dios quita](/assets/meme-cat2.gif){: width="200" style="display: block; margin: 0 auto;"}
+<div align="center">
+
+<img src="/assets/meme-cat2.gif" alt="Dios quita" width="220" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+
+</div>
