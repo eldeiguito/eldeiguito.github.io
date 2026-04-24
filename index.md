@@ -13,21 +13,33 @@ title: Blog de Deiguito
 
 ---
 
-## Sobre mí
+## 👋 Sobre mí
 
-![Foto de perfil](/assets/jack-cuadrado.jpg){: width="200" style="border-radius: 50%; display: block; margin: 0 auto;"}
+<div align="center">
+<img src="/assets/jack-cuadrado.jpg" alt="Foto de perfil" width="200" style="border-radius: 50%; border: 4px solid #6a5acd; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</div>
 
+<p align="center">
 
 Soy estudiante de <b>magister de Física Médica</b> en la PUC. Me gustan las películas y la guitarra.
+</p>
 
-## Intereses de investigación
+---
+
+## 🔬 Intereses de investigación
 
 Estoy estudiando  el uso de **nanopartículas** y **microalgas** como fuentes alternativas de iluminación y oxigenación de tumores para optimizar la radioterapia. :)
 
-## Contacto
+---
 
-- GitHub: [@eldeiguito](https://github.com/eldeiguito)
-- Email: dacevedo@uc.cl
+## 📫 Contacto
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-@eldeiguito-181717?style=for-the-badge&logo=github)](https://github.com/eldeiguito)
+[![Email](https://img.shields.io/badge/Email-dacevedo@uc.cl-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dacevedo@uc.cl)
+
+</div>
 
 ---
 
