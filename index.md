@@ -10,9 +10,11 @@ literalmente yo
 Soy estudiante de magister de Física Médica en la PUC. Me gustan las películas y la guitarra.
 
 ## Intereses de investigación
+
 Estoy estudiando  el uso de nanopartículas y microalgas como fuentes alternativas de iluminación y oxigenación de tumores para optimizar la radioterapia. :)
 
 ## Contacto
+
 - GitHub: [@eldeiguito](https://github.com/eldeiguito)
 - Email: dacevedo@uc.cl
 
