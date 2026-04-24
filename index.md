@@ -3,11 +3,11 @@ layout: default
 title: Blog de Deiguito
 ---
 
+# 👻 BLOG DE DEIGUITO
+
 <p align="center">
   <img src="/assets/meme-cat1.gif" alt="Dios da" width="220" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
 </p>
-
-# 👻 BLOG DE DEIGUITO
 
 ---
 
@@ -29,6 +29,12 @@ Estoy estudiando  el uso de **nanopartículas** y **microalgas** como fuentes al
 
 ---
 
+<p align="center">
+  <img src="/assets/meme-cat2.gif" alt="Dios quita" width="220" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+</p>
+
+---
+
 ## 📫 Contacto
 
 <p align="center">
@@ -39,10 +45,4 @@ Estoy estudiando  el uso de **nanopartículas** y **microalgas** como fuentes al
   <a href="mailto:dacevedo@uc.cl">
     <img src="https://img.shields.io/badge/Email-dacevedo@uc.cl-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="/assets/meme-cat2.gif" alt="Dios quita" width="220" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
 </p>
